@@ -1,3 +1,6 @@
+# ‼️ Deprecation note ‼️
+This repository will no longer be maintained. Better use [Vanadium](https://modrinth.com/mod/vanadium) (1.20+) or [Colormatica](https://modrinth.com/mod/colormatic) (1.19 and lower) mod
+
 # Colormaps fixer
 Remakes Minecraft texture pack a little to remove usage of unsupported for Iris Shaders Optifine colormaps
 
@@ -5,7 +8,7 @@ Remakes Minecraft texture pack a little to remove usage of unsupported for Iris 
 Install executable from Releases tab, then just drag-n-drop resource pack to executable. You can also run it from command line / terminal like this:
 
 ```
-path/to/CTFixer "other/path/to/texture/pack.zip"
+path/to/CMFixer "other/path/to/texture/pack.zip"
 ```
 
 ## Building yourself
